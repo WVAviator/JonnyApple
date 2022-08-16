@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: 8f1c923b346ac0647accc692ab4476a7
+timeCreated: 1454072211
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: JonnyApple_Eye
+    21300002: JonnyApple_Pupil
+    21300004: JonnyApple_Leaf
+    21300006: JonnyApple_Eyebrow
+    21300008: JonnyApple_Stem
+    21300010: JonnyApple_Mouth
+    21300012: JonnyApple_Leg_Upper
+    21300014: JonnyApple_Part_05
+    21300016: JonnyApple_Part_04
+    21300018: JonnyApple_Body
+    21300020: JonnyApple_Leg_Lower
+    21300022: JonnyApple_Part_03
+    21300024: JonnyApple_Part_02
+    21300026: JonnyApple_Part_01
+    21300028: JonnyApple_Arm_Upper
+    21300030: JonnyApple_Arm_Lower
+    21300032: JonnyApple_Hand
+    21300034: JonnyApple_Foot
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: JonnyApple_Eye
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 971
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 26.5}
+        - {x: -20.5, y: 24.5}
+        - {x: -20.5, y: -25.5}
+        - {x: -17.5, y: -26.5}
+        - {x: 16.5, y: -26.5}
+        - {x: 20.5, y: -18.5}
+        - {x: 20.5, y: 16.5}
+        - {x: 14.5, y: 26.5}
+    - name: JonnyApple_Pupil
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 924
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: JonnyApple_Leaf
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 226
+        height: 172
+      alignment: 9
+      pivot: {x: 0.017074268, y: 0.041028045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.141212, y: 164.94318}
+        - {x: -3.8587875, y: 145.94318}
+        - {x: -3.8587875, y: -7.0568237}
+        - {x: 95.14121, y: -7.0568237}
+        - {x: 222.1412, y: 103.94318}
+        - {x: 222.1412, y: 164.94318}
+    - name: JonnyApple_Eyebrow
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 828
+        width: 58
+        height: 29
+      alignment: 9
+      pivot: {x: 0.84327227, y: 0.8252921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: JonnyApple_Stem
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 56
+        height: 100
+      alignment: 9
+      pivot: {x: 0.7937312, y: 0.060169067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.448948, y: 93.98309}
+        - {x: -44.448948, y: 70.98309}
+        - {x: -15.448948, y: -2.0169067}
+        - {x: -10.448948, y: -6.0169067}
+        - {x: 11.551052, y: -6.0169067}
+        - {x: 11.551052, y: 27.983093}
+        - {x: -20.448948, y: 93.98309}
+    - name: JonnyApple_Mouth
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 528
+        width: 80
+        height: 13
+      alignment: 9
+      pivot: {x: 0.9186241, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: JonnyApple_Leg_Upper
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 80
+        height: 109
+      alignment: 9
+      pivot: {x: 0.49939942, y: 0.8366534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.951954, y: 17.80478}
+        - {x: -39.951954, y: 13.804779}
+        - {x: -39.951954, y: -32.19522}
+        - {x: -23.951954, y: -91.19522}
+        - {x: 11.048046, y: -91.19522}
+        - {x: 40.048046, y: -31.19522}
+        - {x: 40.048046, y: 6.804779}
+        - {x: 34.048046, y: 17.80478}
+    - name: JonnyApple_Part_05
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 327
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 29}
+        - {x: -36, y: 29}
+        - {x: -36, y: -25}
+        - {x: -34, y: -29}
+        - {x: 5, y: -29}
+        - {x: 36, y: -5}
+        - {x: 36, y: 5}
+        - {x: 15, y: 24}
+    - name: JonnyApple_Part_04
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 327
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 31}
+        - {x: -4.5, y: 32}
+        - {x: -32.5, y: 32}
+        - {x: -32.5, y: 27}
+        - {x: -19.5, y: -9}
+        - {x: -8.5, y: -32}
+        - {x: 27.5, y: -32}
+        - {x: 31.5, y: -19}
+        - {x: 31.5, y: -1}
+        - {x: 12.5, y: 24}
+    - name: JonnyApple_Body
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 0
+        width: 398
+        height: 408
+      alignment: 9
+      pivot: {x: 0.5164275, y: 0.23358783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76.46185, y: -89.30383}
+        - {x: 100.46185, y: -78.30383}
+        - {x: 110.46185, y: -71.30383}
+        - {x: 136.46185, y: -44.303833}
+        - {x: 145.46185, y: -32.303833}
+        - {x: 165.46185, y: 2.696167}
+        - {x: 174.46185, y: 24.696167}
+        - {x: 188.46185, y: 66.69617}
+        - {x: 191.46185, y: 85.69617}
+        - {x: 192.46185, y: 91.69617}
+        - {x: 192.46185, y: 167.69617}
+        - {x: 191.46185, y: 174.69617}
+        - {x: 188.46185, y: 193.69617}
+        - {x: 184.46185, y: 203.69617}
+        - {x: 175.46185, y: 225.69617}
+        - {x: 171.46185, y: 234.69617}
+        - {x: 157.46185, y: 256.69617}
+        - {x: 140.46185, y: 276.69617}
+        - {x: 119.46185, y: 296.69617}
+        - {x: 95.46185, y: 308.69617}
+        - {x: 83.46185, y: 312.69617}
+        - {x: -56.538147, y: 312.69617}
+        - {x: -57.538147, y: 310.69617}
+        - {x: -89.53815, y: 309.69617}
+        - {x: -114.53815, y: 308.69617}
+        - {x: -130.53815, y: 302.69617}
+        - {x: -142.53815, y: 295.69617}
+        - {x: -156.53815, y: 285.69617}
+        - {x: -183.53815, y: 255.69617}
+        - {x: -189.53815, y: 246.69617}
+        - {x: -196.53815, y: 232.69617}
+        - {x: -203.53815, y: 212.69617}
+        - {x: -205.53815, y: 204.69617}
+        - {x: -205.53815, y: 81.69617}
+        - {x: -193.53815, y: 37.696167}
+        - {x: -179.53815, y: 6.696167}
+        - {x: -180.53815, y: 2.696167}
+        - {x: -178.53815, y: -2.303833}
+        - {x: -161.53815, y: -25.303833}
+        - {x: -127.53815, y: -63.303833}
+        - {x: -114.53815, y: -76.30383}
+        - {x: -91.53815, y: -89.30383}
+        - {x: -75.53815, y: -94.30383}
+        - {x: -71.53815, y: -95.30383}
+        - {x: -19.538147, y: -95.30383}
+        - {x: 3.461853, y: -90.30383}
+        - {x: 47.461853, y: -93.30383}
+    - name: JonnyApple_Leg_Lower
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 40
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5450834, y: 0.79178685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.803337, y: 19.988464}
+        - {x: -21.803337, y: 17.988464}
+        - {x: -21.803337, y: -76.011536}
+        - {x: 3.196663, y: -76.011536}
+        - {x: 13.196663, y: -68.011536}
+        - {x: 18.196663, y: -53.011536}
+        - {x: 18.196663, y: 19.988464}
+    - name: JonnyApple_Part_03
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 240
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 2.5}
+        - {x: 23.5, y: 13.5}
+        - {x: 23.5, y: 25.5}
+        - {x: -1.5, y: 31.5}
+        - {x: -18.5, y: 31.5}
+        - {x: -23.5, y: 26.5}
+        - {x: -23.5, y: -27.5}
+        - {x: -11.5, y: -30.5}
+        - {x: 4.5, y: -30.5}
+        - {x: 23.5, y: -22.5}
+        - {x: 23.5, y: -5.5}
+        - {x: 22.5, y: 0.5}
+    - name: JonnyApple_Part_02
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 228
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 21}
+        - {x: -30, y: 4}
+        - {x: -30, y: -21}
+        - {x: 30, y: -21}
+        - {x: 30, y: 19}
+        - {x: 19, y: 21}
+    - name: JonnyApple_Part_01
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 146
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 29}
+        - {x: -36, y: 13}
+        - {x: -36, y: 6}
+        - {x: -24, y: -18}
+        - {x: -9, y: -29}
+        - {x: 34, y: -29}
+        - {x: 36, y: -28}
+        - {x: 36, y: 22}
+        - {x: 12, y: 29}
+    - name: JonnyApple_Arm_Upper
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 167
+        height: 119
+      alignment: 9
+      pivot: {x: 0.19699325, y: 0.71788514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.102127, y: 32.57167}
+        - {x: 43.102127, y: 33.57167}
+        - {x: -32.897873, y: 33.57167}
+        - {x: -32.897873, y: -49.42833}
+        - {x: 85.10213, y: -85.42833}
+        - {x: 134.10213, y: -85.42833}
+        - {x: 134.10213, y: -67.42833}
+        - {x: 115.10213, y: -61.42833}
+    - name: JonnyApple_Arm_Lower
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 120
+        height: 29
+      alignment: 9
+      pivot: {x: 0.08180046, y: 0.4855788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: JonnyApple_Hand
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 66
+        height: 41
+      alignment: 9
+      pivot: {x: 0.14516379, y: 0.17359953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.419189, y: 33.88242}
+        - {x: -6.5808105, y: 15.88242}
+        - {x: -9.580811, y: 9.88242}
+        - {x: -9.580811, y: -7.1175804}
+        - {x: 37.41919, y: -7.1175804}
+        - {x: 56.41919, y: 14.88242}
+        - {x: 56.41919, y: 33.88242}
+    - name: JonnyApple_Foot
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 0
+        width: 100
+        height: 48
+      alignment: 9
+      pivot: {x: 0.3285382, y: 0.7352368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.14618, y: 12.708633}
+        - {x: -11.853821, y: 12.708633}
+        - {x: -32.85382, y: -0.29136658}
+        - {x: -32.85382, y: -34.291367}
+        - {x: -28.85382, y: -35.291367}
+        - {x: 67.14618, y: -35.291367}
+        - {x: 67.14618, y: -19.291367}
+        - {x: 58.14618, y: -0.29136658}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

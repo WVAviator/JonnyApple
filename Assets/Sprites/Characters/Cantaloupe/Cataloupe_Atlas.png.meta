@@ -1,0 +1,523 @@
+fileFormatVersion: 2
+guid: 58f79e448a68e6c44b0e45681589db83
+timeCreated: 1455592167
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cataloupe_Horn_01
+    21300002: Cataloupe_Rear_Lower_Leg
+    21300004: Cataloupe_Rear_Upper_Leg
+    21300006: Cataloupe_Upper_Tail
+    21300008: Cataloupe_Body
+    21300010: Cataloupe_Horn_02
+    21300012: Cataloupe_Eye
+    21300014: Cataloupe_Pupil
+    21300016: Cataloupe_Front_Lower_Leg
+    21300018: Cataloupe_Front_Upper_Leg
+    21300020: Cataloupe_Tail_Middle
+    21300022: Cataloupe_Atlas_11
+    21300024: Cataloupe_Mouth
+    21300026: Cataloupe_Tail_Lower
+    21300028: Cataloupe_Seed
+    21300030: Cataloupe_Piece_01
+    21300032: Cataloupe_Piece_04
+    21300034: Cataloupe_Piece_06
+    21300036: Cataloupe_Piece_07
+    21300038: Cataloupe_Piece_02
+    21300040: Cataloupe_Piece_03
+    21300042: Cataloupe_Piece_05
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Cataloupe_Horn_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 944
+        width: 92
+        height: 80
+      alignment: 9
+      pivot: {x: 0.8007993, y: 0.24585572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.67354, y: 60.331543}
+        - {x: -73.67354, y: 60.331543}
+        - {x: -73.67354, y: 43.331543}
+        - {x: -13.673538, y: -19.668457}
+        - {x: 6.326462, y: -19.668457}
+        - {x: 18.326462, y: -6.668457}
+        - {x: 18.326462, y: 16.331543}
+        - {x: -52.67354, y: 59.331543}
+    - name: Cataloupe_Rear_Lower_Leg
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 889
+        width: 62
+        height: 135
+      alignment: 9
+      pivot: {x: 0.6275278, y: 0.88487774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.906723, y: 15.541504}
+        - {x: -30.906723, y: 12.541504}
+        - {x: -38.906723, y: -92.458496}
+        - {x: -38.906723, y: -119.458496}
+        - {x: 23.093277, y: -119.458496}
+        - {x: 23.093277, y: 9.541504}
+        - {x: 20.093277, y: 15.541504}
+    - name: Cataloupe_Rear_Upper_Leg
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 828
+        width: 102
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5276845, y: 0.8140791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.823822, y: 36.44049}
+        - {x: -53.823822, y: 33.44049}
+        - {x: -53.823822, y: -122.55951}
+        - {x: -46.823822, y: -159.55951}
+        - {x: 27.176178, y: -159.55951}
+        - {x: 48.176178, y: -88.55951}
+        - {x: 48.176178, y: 36.44049}
+    - name: Cataloupe_Upper_Tail
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 805
+        width: 103
+        height: 219
+      alignment: 9
+      pivot: {x: 0.42871892, y: 0.83524936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.84195, y: 36.080383}
+        - {x: -24.15805, y: 36.080383}
+        - {x: -44.15805, y: 16.080383}
+        - {x: -44.15805, y: -46.919617}
+        - {x: 6.8419495, y: -182.91962}
+        - {x: 58.84195, y: -182.91962}
+        - {x: 58.84195, y: -67.91962}
+        - {x: 49.84195, y: 3.0803833}
+    - name: Cataloupe_Body
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 648
+        width: 424
+        height: 376
+      alignment: 9
+      pivot: {x: 0.69517905, y: 0.43857753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51.24408, y: -126.90515}
+        - {x: 64.24408, y: -116.90515}
+        - {x: 85.24408, y: -96.90515}
+        - {x: 93.24408, y: -87.90515}
+        - {x: 111.24408, y: -62.90515}
+        - {x: 125.24408, y: -31.905151}
+        - {x: 129.24408, y: -15.905151}
+        - {x: 129.24408, y: 65.09485}
+        - {x: 127.24408, y: 73.09485}
+        - {x: 118.24408, y: 95.09485}
+        - {x: 106.24408, y: 117.09485}
+        - {x: 98.24408, y: 129.09485}
+        - {x: 89.24408, y: 139.09485}
+        - {x: 66.24408, y: 162.09485}
+        - {x: 62.24408, y: 167.09485}
+        - {x: 39.24408, y: 183.09485}
+        - {x: 15.24408, y: 194.09485}
+        - {x: 2.2440796, y: 201.09485}
+        - {x: -24.75592, y: 209.09485}
+        - {x: -39.75592, y: 211.09485}
+        - {x: -120.75592, y: 211.09485}
+        - {x: -150.75592, y: 205.09485}
+        - {x: -183.75592, y: 191.09485}
+        - {x: -194.75592, y: 185.09485}
+        - {x: -217.75592, y: 170.09485}
+        - {x: -228.75592, y: 161.09485}
+        - {x: -255.75592, y: 134.09485}
+        - {x: -269.75592, y: 112.09485}
+        - {x: -278.75592, y: 94.09485}
+        - {x: -284.75592, y: 79.09485}
+        - {x: -290.75592, y: 57.09485}
+        - {x: -293.75592, y: 44.09485}
+        - {x: -293.75592, y: 9.094849}
+        - {x: -291.75592, y: -9.905151}
+        - {x: -283.75592, y: -37.90515}
+        - {x: -267.75592, y: -69.90515}
+        - {x: -247.75592, y: -94.90515}
+        - {x: -230.75592, y: -110.90515}
+        - {x: -224.75592, y: -116.90515}
+        - {x: -208.75592, y: -128.90515}
+        - {x: -183.75592, y: -142.90515}
+        - {x: -172.75592, y: -147.90515}
+        - {x: -141.75592, y: -159.90515}
+        - {x: -111.75592, y: -164.90515}
+        - {x: -44.75592, y: -164.90515}
+        - {x: -18.75592, y: -159.90515}
+        - {x: 15.24408, y: -147.90515}
+        - {x: 43.24408, y: -132.90515}
+    - name: Cataloupe_Horn_02
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 817
+        width: 83
+        height: 91
+      alignment: 9
+      pivot: {x: 0.813003, y: 0.17727695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.47925, y: 74.8678}
+        - {x: -67.47925, y: 55.867798}
+        - {x: -14.479248, y: -16.132202}
+        - {x: 2.520752, y: -16.132202}
+        - {x: 15.520752, y: -8.132202}
+        - {x: 15.520752, y: 50.867798}
+        - {x: -46.479248, y: 74.8678}
+    - name: Cataloupe_Eye
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 753
+        width: 34
+        height: 40
+      alignment: 9
+      pivot: {x: 0.4335569, y: 0.3870468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.740935, y: 24.518127}
+        - {x: -14.740935, y: 20.518127}
+        - {x: -14.740935, y: -11.481873}
+        - {x: -12.740935, y: -15.481873}
+        - {x: 13.259065, y: -15.481873}
+        - {x: 19.259064, y: -13.481873}
+        - {x: 19.259064, y: 13.518127}
+        - {x: 13.259065, y: 24.518127}
+    - name: Cataloupe_Pupil
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 764
+        width: 7
+        height: 10
+      alignment: 9
+      pivot: {x: 0.9034048, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cataloupe_Front_Lower_Leg
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 696
+        width: 65
+        height: 98
+      alignment: 9
+      pivot: {x: 0.68246293, y: 0.8630639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.639908, y: 13.419739}
+        - {x: -12.360092, y: 13.419739}
+        - {x: -23.360092, y: 8.419739}
+        - {x: -28.360092, y: -17.580261}
+        - {x: -44.360092, y: -63.58026}
+        - {x: -44.360092, y: -84.58026}
+        - {x: 17.639908, y: -84.58026}
+        - {x: 20.639908, y: -80.58026}
+        - {x: 20.639908, y: 6.419739}
+    - name: Cataloupe_Front_Upper_Leg
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 683
+        width: 70
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5242044, y: 0.7663128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.305695, y: 23.74353}
+        - {x: 23.305695, y: 28.74353}
+        - {x: -27.694305, y: 28.74353}
+        - {x: -36.694305, y: 19.74353}
+        - {x: -36.694305, y: -71.25647}
+        - {x: -34.694305, y: -94.25647}
+        - {x: 5.3056946, y: -94.25647}
+        - {x: 8.305695, y: -90.25647}
+        - {x: 24.305695, y: -68.25647}
+        - {x: 33.305695, y: -41.25647}
+    - name: Cataloupe_Tail_Middle
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 619
+        width: 51
+        height: 149
+      alignment: 9
+      pivot: {x: 0.4778526, y: 0.86387604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.629517, y: 20.28247}
+        - {x: -17.370483, y: 20.28247}
+        - {x: -24.370483, y: 17.28247}
+        - {x: -24.370483, y: -41.71753}
+        - {x: -13.370483, y: -83.71753}
+        - {x: -3.3704834, y: -121.71753}
+        - {x: 3.6295166, y: -128.71753}
+        - {x: 23.629517, y: -128.71753}
+        - {x: 25.629517, y: -127.71753}
+        - {x: 26.629517, y: -123.71753}
+        - {x: 26.629517, y: -4.7175293}
+        - {x: 24.629517, y: 9.282471}
+    - name: Cataloupe_Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 706
+        width: 56
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cataloupe_Mouth
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 632
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 0.75414455, y: 0.51613593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.165783, y: 16.935242}
+        - {x: -30.165783, y: 9.935242}
+        - {x: -30.165783, y: -8.064758}
+        - {x: -21.165783, y: -18.064758}
+        - {x: 9.834217, y: -18.064758}
+        - {x: 9.834217, y: 15.935242}
+        - {x: 5.834217, y: 16.935242}
+    - name: Cataloupe_Tail_Lower
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 542
+        width: 20
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9107389}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Cataloupe_Seed
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 520
+        width: 152
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 24}
+        - {x: -76, y: 0}
+        - {x: -76, y: -7}
+        - {x: -29, y: -22}
+        - {x: -21, y: -24}
+        - {x: 57, y: -24}
+        - {x: 76, y: -12}
+        - {x: 76, y: 21}
+        - {x: 66, y: 24}
+    - name: Cataloupe_Piece_01
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 249
+        width: 225
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 79}
+        - {x: -112.5, y: 46}
+        - {x: -112.5, y: -11}
+        - {x: -110.5, y: -31}
+        - {x: 3.5, y: -79}
+        - {x: 75.5, y: -79}
+        - {x: 104.5, y: -75}
+        - {x: 112.5, y: -43}
+        - {x: 112.5, y: 74}
+        - {x: 111.5, y: 79}
+    - name: Cataloupe_Piece_04
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 213
+        width: 148
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: 97}
+        - {x: 25, y: 115}
+        - {x: -42, y: 115}
+        - {x: -74, y: 86}
+        - {x: -74, y: -12}
+        - {x: -64, y: -58}
+        - {x: -1, y: -115}
+        - {x: 51, y: -115}
+        - {x: 60, y: -113}
+        - {x: 74, y: -75}
+        - {x: 74, y: 33}
+        - {x: 72, y: 46}
+    - name: Cataloupe_Piece_06
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 254
+        width: 86
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 69}
+        - {x: -43, y: -69}
+        - {x: 31, y: -69}
+        - {x: 43, y: -64}
+        - {x: 43, y: 23}
+        - {x: 23, y: 69}
+    - name: Cataloupe_Piece_07
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 212
+        width: 104
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 112}
+        - {x: -52, y: -46}
+        - {x: -47, y: -112}
+        - {x: 11, y: -112}
+        - {x: 16, y: -111}
+        - {x: 52, y: -104}
+        - {x: 52, y: 105}
+        - {x: 47, y: 112}
+    - name: Cataloupe_Piece_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 159
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 104.5}
+        - {x: -57.5, y: 42.5}
+        - {x: -77.5, y: -9.5}
+        - {x: -79.5, y: -17.5}
+        - {x: -79.5, y: -81.5}
+        - {x: -40.5, y: -104.5}
+        - {x: 21.5, y: -104.5}
+        - {x: 79.5, y: -22.5}
+        - {x: 79.5, y: 104.5}
+    - name: Cataloupe_Piece_03
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 4
+        width: 293
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: 34.5}
+        - {x: -97.5, y: 65.5}
+        - {x: -146.5, y: 65.5}
+        - {x: -146.5, y: 34.5}
+        - {x: -87.5, y: -50.5}
+        - {x: -9.5, y: -65.5}
+        - {x: 135.5, y: -65.5}
+        - {x: 146.5, y: -60.5}
+        - {x: 146.5, y: -33.5}
+        - {x: 103.5, y: 26.5}
+    - name: Cataloupe_Piece_05
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 15
+        width: 210
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -105, y: 47}
+        - {x: -105, y: -15}
+        - {x: -18, y: -47}
+        - {x: 77, y: -47}
+        - {x: 105, y: -12}
+        - {x: 105, y: 2}
+        - {x: 75, y: 47}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

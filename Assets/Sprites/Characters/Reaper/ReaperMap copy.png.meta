@@ -1,0 +1,345 @@
+fileFormatVersion: 2
+guid: 8058e40a02d8cf946aa12a341e45ffdd
+timeCreated: 1456531417
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ReaperMap copy_0
+    21300002: ReaperMap copy_1
+    21300004: ReaperMap copy_2
+    21300006: ReaperMap copy_3
+    21300008: ReaperMap copy_4
+    21300010: ReaperMap copy_5
+    21300012: ReaperMap copy_6
+    21300014: ReaperMap copy_7
+    21300016: ReaperMap copy_8
+    21300018: ReaperMap copy_9
+    21300020: ReaperMap copy_10
+    21300022: ReaperMap copy_11
+    21300024: ReaperMap copy_12
+    21300026: ReaperMap copy_13
+    21300028: ReaperMap copy_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ReaperMap copy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 609
+        width: 298
+        height: 415
+      alignment: 9
+      pivot: {x: 0.5629003, y: 0.5948507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 127.25571, y: -89.86304}
+        - {x: 130.2557, y: -69.86304}
+        - {x: 130.2557, y: 17.136963}
+        - {x: 98.25571, y: 96.13696}
+        - {x: 46.255707, y: 157.13696}
+        - {x: 28.255707, y: 163.13696}
+        - {x: 1.2557068, y: 160.13696}
+        - {x: -48.744293, y: 168.13696}
+        - {x: -123.74429, y: 168.13696}
+        - {x: -165.7443, y: 164.13696}
+        - {x: -167.7443, y: 158.13696}
+        - {x: -167.7443, y: 126.13696}
+        - {x: -161.7443, y: 122.13696}
+        - {x: -94.74429, y: 139.13696}
+        - {x: -66.74429, y: 122.13696}
+        - {x: -110.74429, y: 104.13696}
+        - {x: -129.7443, y: 56.136963}
+        - {x: -135.7443, y: 19.136963}
+        - {x: -133.7443, y: -38.863037}
+        - {x: -120.74429, y: -92.86304}
+        - {x: -106.74429, y: -109.86304}
+        - {x: -78.74429, y: -149.86304}
+        - {x: -45.744293, y: -180.86304}
+        - {x: -43.744293, y: -244.86304}
+        - {x: -42.744293, y: -246.86304}
+        - {x: -28.744293, y: -246.86304}
+        - {x: -25.744293, y: -245.86304}
+        - {x: 9.255707, y: -154.86304}
+        - {x: 48.255707, y: -175.86304}
+        - {x: 85.25571, y: -140.86304}
+    - name: ReaperMap copy_1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 966
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ReaperMap copy_2
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 987
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ReaperMap copy_3
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 609
+        width: 143
+        height: 415
+      alignment: 9
+      pivot: {x: 0.94932204, y: 0.08390378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -109.75305, y: 380.17993}
+        - {x: -135.75305, y: 352.17993}
+        - {x: -135.75305, y: 329.17993}
+        - {x: -99.75305, y: 342.17993}
+        - {x: -8.753052, y: -34.82007}
+        - {x: 7.2469482, y: -34.82007}
+        - {x: 7.2469482, y: 373.17993}
+        - {x: -16.753052, y: 380.17993}
+    - name: ReaperMap copy_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 870
+        width: 82
+        height: 62
+      alignment: 9
+      pivot: {x: 0.2639443, y: 0.7208252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.643433, y: 17.308838}
+        - {x: -21.643433, y: -11.691162}
+        - {x: -11.643433, y: -28.691162}
+        - {x: 40.356567, y: -44.691162}
+        - {x: 60.356567, y: -44.691162}
+        - {x: 60.356567, y: 1.3088379}
+        - {x: 27.356567, y: 17.308838}
+    - name: ReaperMap copy_5
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 817
+        width: 57
+        height: 22
+      alignment: 9
+      pivot: {x: 0.11899767, y: 0.24248157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ReaperMap copy_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 770
+        width: 24
+        height: 21
+      alignment: 9
+      pivot: {x: 0.22460175, y: 0.27518427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ReaperMap copy_7
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 640
+        width: 128
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 65.5}
+        - {x: -20, y: 65.5}
+        - {x: -60, y: 57.5}
+        - {x: -64, y: 35.5}
+        - {x: -64, y: -1.5}
+        - {x: -26, y: -65.5}
+        - {x: -7, y: -65.5}
+        - {x: 2, y: -63.5}
+        - {x: 64, y: -12.5}
+        - {x: 64, y: 49.5}
+    - name: ReaperMap copy_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 141
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 65.5}
+        - {x: -44.5, y: 65.5}
+        - {x: -70.5, y: 49.5}
+        - {x: -70.5, y: -7.5}
+        - {x: -62.5, y: -37.5}
+        - {x: -14.5, y: -65.5}
+        - {x: 16.5, y: -65.5}
+        - {x: 55.5, y: -10.5}
+        - {x: 70.5, y: 11.5}
+        - {x: 70.5, y: 63.5}
+    - name: ReaperMap copy_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 430
+        width: 33
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 67}
+        - {x: -16.5, y: 45}
+        - {x: -16.5, y: -59}
+        - {x: -15.5, y: -62}
+        - {x: -13.5, y: -67}
+        - {x: 9.5, y: -67}
+        - {x: 12.5, y: -66}
+        - {x: 16.5, y: -45}
+        - {x: 16.5, y: 61}
+        - {x: 12.5, y: 67}
+    - name: ReaperMap copy_10
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 477
+        width: 221
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.5, y: 86.5}
+        - {x: -0.5, y: 86.5}
+        - {x: -90.5, y: 43.5}
+        - {x: -110.5, y: -23.5}
+        - {x: -110.5, y: -56.5}
+        - {x: -29.5, y: -86.5}
+        - {x: 110.5, y: -86.5}
+        - {x: 110.5, y: -29.5}
+        - {x: 98.5, y: 45.5}
+    - name: ReaperMap copy_11
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 444
+        width: 20
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ReaperMap copy_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 70
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 73.5}
+        - {x: -35, y: -73.5}
+        - {x: 12, y: -73.5}
+        - {x: 35, y: -25.5}
+        - {x: 35, y: 68.5}
+        - {x: 17, y: 73.5}
+    - name: ReaperMap copy_13
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 256
+        width: 231
+        height: 98
+      alignment: 9
+      pivot: {x: 0.68253684, y: 0.28486696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107.666016, y: 70.08304}
+        - {x: -148.66602, y: 56.08304}
+        - {x: -157.66602, y: 49.08304}
+        - {x: -157.66602, y: -17.916962}
+        - {x: -151.66602, y: -27.916962}
+        - {x: 69.333984, y: -27.916962}
+        - {x: 73.333984, y: -26.916962}
+        - {x: 73.333984, y: 44.08304}
+        - {x: 64.333984, y: 68.08304}
+        - {x: 47.333984, y: 70.08304}
+    - name: ReaperMap copy_14
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 191
+        width: 88
+        height: 165
+      alignment: 9
+      pivot: {x: 0.40873164, y: 0.74946696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.968384, y: 41.33795}
+        - {x: -29.968384, y: 32.33795}
+        - {x: -34.968384, y: 16.337952}
+        - {x: -34.968384, y: -123.66205}
+        - {x: 17.031616, y: -123.66205}
+        - {x: 51.031616, y: -47.66205}
+        - {x: 51.031616, y: 38.33795}
+        - {x: 41.031616, y: 41.33795}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

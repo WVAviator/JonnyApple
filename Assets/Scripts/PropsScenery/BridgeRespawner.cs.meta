@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: dc6380c692f05e7458ce9b694c50c98c
+timeCreated: 1457101192
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bridgePrefab: {fileID: 183278, guid: 9c68a8ccc6f45d1489021fa4b7b9400d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,119 @@
+fileFormatVersion: 2
+guid: 7e87422ff88774e408af8c356355ccc0
+timeCreated: 1454248561
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Appleseed_Exploded
+    21300002: Appleseed
+    21300004: StrawGun
+    21300006: Applesauce
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Appleseed_Exploded
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 291
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 19.5}
+        - {x: -25.5, y: 8.5}
+        - {x: -25.5, y: -12.5}
+        - {x: -12.5, y: -19.5}
+        - {x: 12.5, y: -19.5}
+        - {x: 24.5, y: -16.5}
+        - {x: 25.5, y: -13.5}
+        - {x: 25.5, y: 12.5}
+        - {x: 12.5, y: 19.5}
+    - name: Appleseed
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 300
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: StrawGun
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 230
+        width: 211
+        height: 94
+      alignment: 9
+      pivot: {x: 0.9198931, y: 0.35118037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -193.09744, y: 60.989044}
+        - {x: -193.09744, y: 28.989044}
+        - {x: -45.097443, y: -33.010956}
+        - {x: 16.902557, y: -33.010956}
+        - {x: 16.902557, y: 60.989044}
+    - name: Applesauce
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 07aeb2f7e96f53641b2b349d40f4c639
+timeCreated: 1457016108
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Dirt_Atlas_0
+    21300002: LowerRight
+    21300004: Dirt_Atlas_6
+    21300006: Dirt_Atlas_10
+    21300008: Dirt_Atlas_12
+    21300010: Dirt_Atlas_13
+    21300012: Dirt_Atlas_16
+    21300014: Dirt_Atlas_18
+    21300016: Dirt_Atlas_20
+    21300018: Dirt_Atlas_22
+    21300020: Dirt_Atlas_28
+    21300022: Dirt_Atlas_30
+    21300024: Dirt_Atlas_32
+    21300026: Dirt_Atlas_34
+    21300028: Dirt_Atlas_42
+    21300030: Dirt_Atlas_44
+    21300032: Dirt_Atlas_46
+    21300034: Dirt_Atlas_48
+    21300036: TopRight
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Dirt_Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 256
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 128}
+        - {x: 0, y: 0}
+        - {x: 256, y: 0}
+        - {x: 256, y: 128}
+    - name: LowerRight
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 256
+        height: 128
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -256, y: 0}
+        - {x: -256, y: -128}
+        - {x: -250, y: -128}
+        - {x: 0, y: -3}
+        - {x: 0, y: 0}
+    - name: Dirt_Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 128}
+        - {x: 0, y: 97}
+        - {x: 256, y: 97}
+        - {x: 256, y: 128}
+    - name: Dirt_Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 256
+        height: 256
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 256}
+        - {x: 0, y: 234}
+        - {x: 45, y: 175}
+        - {x: 236, y: 107}
+        - {x: 256, y: 107}
+        - {x: 256, y: 132}
+        - {x: 9, y: 256}
+    - name: Dirt_Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 256
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97, y: 256}
+        - {x: 97, y: 0}
+        - {x: 128, y: 0}
+        - {x: 128, y: 256}
+    - name: Dirt_Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 256
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 256}
+        - {x: 0, y: 0}
+        - {x: 30, y: 0}
+        - {x: 30, y: 256}
+    - name: Dirt_Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 256
+        height: 256
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 249, y: 256}
+        - {x: 0, y: 131}
+        - {x: 0, y: 107}
+        - {x: 16, y: 107}
+        - {x: 178, y: 193}
+        - {x: 256, y: 235}
+        - {x: 256, y: 256}
+    - name: Dirt_Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 256}
+        - {x: 0, y: 233}
+        - {x: 214, y: 113}
+        - {x: 245, y: 106}
+        - {x: 256, y: 106}
+        - {x: 256, y: 137}
+        - {x: 6, y: 256}
+    - name: Dirt_Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 512
+        width: 256
+        height: 256
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 249, y: 256}
+        - {x: 0, y: 131}
+        - {x: 0, y: 106}
+        - {x: 14, y: 106}
+        - {x: 176, y: 192}
+        - {x: 256, y: 235}
+        - {x: 256, y: 256}
+    - name: Dirt_Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 256
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 240, y: 27}
+        - {x: 233, y: 29}
+        - {x: 234, y: 29}
+        - {x: 237, y: 30}
+        - {x: 236, y: 37}
+        - {x: 217, y: 35}
+        - {x: 173, y: 34}
+        - {x: 173, y: 29}
+        - {x: 172, y: 26}
+        - {x: 173, y: 27}
+        - {x: 164, y: 27}
+        - {x: 164, y: 29}
+        - {x: 162, y: 37}
+        - {x: 161, y: 39}
+        - {x: 157, y: 39}
+        - {x: 142, y: 32}
+        - {x: 143, y: 27}
+        - {x: 145, y: 25}
+        - {x: 149, y: 26}
+        - {x: 145, y: 25}
+        - {x: 118, y: 25}
+        - {x: 126, y: 28}
+        - {x: 130, y: 30}
+        - {x: 131, y: 38}
+        - {x: 101, y: 39}
+        - {x: 71, y: 39}
+        - {x: 42, y: 25}
+        - {x: 41, y: 24}
+        - {x: 22, y: 24}
+        - {x: 21, y: 26}
+        - {x: 37, y: 24}
+        - {x: 41, y: 24}
+        - {x: 47, y: 32}
+        - {x: 44, y: 34}
+        - {x: 20, y: 39}
+        - {x: 15, y: 39}
+        - {x: 0, y: 34}
+        - {x: 0, y: 0}
+        - {x: 256, y: 0}
+        - {x: 256, y: 33}
+        - {x: 252, y: 34}
+      - - {x: 240, y: 37}
+        - {x: 236, y: 34}
+        - {x: 237, y: 30}
+        - {x: 242, y: 27}
+        - {x: 247, y: 27}
+        - {x: 248, y: 28}
+        - {x: 248, y: 32}
+        - {x: 244, y: 37}
+      - - {x: 61, y: 36}
+        - {x: 55, y: 35}
+        - {x: 55, y: 28}
+        - {x: 61, y: 28}
+        - {x: 67, y: 32}
+        - {x: 67, y: 34}
+        - {x: 66, y: 36}
+      - - {x: 129, y: 32}
+        - {x: 129, y: 30}
+        - {x: 130, y: 28}
+        - {x: 142, y: 28}
+        - {x: 143, y: 31}
+        - {x: 142, y: 34}
+        - {x: 131, y: 34}
+      - - {x: 80, y: 36}
+        - {x: 78, y: 34}
+        - {x: 78, y: 32}
+        - {x: 80, y: 30}
+        - {x: 84, y: 30}
+        - {x: 86, y: 32}
+        - {x: 86, y: 33}
+        - {x: 83, y: 36}
+      - - {x: 67, y: 35}
+        - {x: 68, y: 32}
+        - {x: 71, y: 32}
+        - {x: 73, y: 34}
+        - {x: 72, y: 37}
+        - {x: 69, y: 37}
+      - - {x: 243, y: 100}
+        - {x: 239, y: 96}
+        - {x: 239, y: 94}
+        - {x: 240, y: 92}
+        - {x: 244, y: 92}
+        - {x: 250, y: 93}
+        - {x: 250, y: 99}
+        - {x: 248, y: 100}
+      - - {x: 252, y: 100}
+        - {x: 250, y: 98}
+        - {x: 251, y: 95}
+        - {x: 255, y: 95}
+        - {x: 256, y: 96}
+        - {x: 256, y: 100}
+      - - {x: 248, y: 106}
+        - {x: 248, y: 104}
+        - {x: 246, y: 107}
+        - {x: 244, y: 107}
+        - {x: 241, y: 104}
+        - {x: 241, y: 102}
+        - {x: 242, y: 100}
+        - {x: 254, y: 100}
+        - {x: 256, y: 102}
+        - {x: 256, y: 108}
+        - {x: 250, y: 108}
+      - - {x: 239, y: 112}
+        - {x: 240, y: 110}
+        - {x: 243, y: 110}
+        - {x: 248, y: 112}
+        - {x: 248, y: 116}
+        - {x: 247, y: 118}
+        - {x: 242, y: 118}
+        - {x: 239, y: 117}
+      - - {x: 252, y: 121}
+        - {x: 251, y: 119}
+        - {x: 251, y: 116}
+        - {x: 255, y: 113}
+        - {x: 256, y: 113}
+        - {x: 256, y: 121}
+      - - {x: 245, y: 121}
+        - {x: 253, y: 121}
+        - {x: 255, y: 122}
+        - {x: 255, y: 128}
+        - {x: 248, y: 128}
+        - {x: 246, y: 127}
+        - {x: 244, y: 125}
+    - name: Dirt_Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 128}
+        - {x: 0, y: 0}
+        - {x: 256, y: 0}
+        - {x: 256, y: 128}
+    - name: Dirt_Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 249, y: 256}
+        - {x: 3, y: 159}
+        - {x: 1, y: 161}
+        - {x: 0, y: 161}
+        - {x: 0, y: 0}
+        - {x: 256, y: 0}
+        - {x: 256, y: 256}
+      - - {x: 3, y: 178}
+        - {x: 3, y: 181}
+        - {x: 0, y: 182}
+        - {x: 0, y: 177}
+      - - {x: 3, y: 189}
+        - {x: 3, y: 192}
+        - {x: 0, y: 193}
+        - {x: 0, y: 188}
+      - - {x: 0, y: 207}
+        - {x: 3, y: 208}
+        - {x: 3, y: 213}
+        - {x: 1, y: 215}
+        - {x: 0, y: 215}
+      - - {x: 0, y: 241}
+        - {x: 0, y: 230}
+        - {x: 3, y: 232}
+        - {x: 3, y: 239}
+        - {x: 1, y: 241}
+      - - {x: 3, y: 243}
+        - {x: 3, y: 246}
+        - {x: 0, y: 247}
+        - {x: 0, y: 242}
+    - name: Dirt_Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 256}
+        - {x: 0, y: 0}
+        - {x: 256, y: 0}
+        - {x: 256, y: 131}
+        - {x: 6, y: 256}
+    - name: Dirt_Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 128}
+        - {x: 0, y: 0}
+        - {x: 256, y: 0}
+        - {x: 256, y: 3}
+        - {x: 6, y: 128}
+    - name: Dirt_Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 256
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 128}
+        - {x: 0, y: 0}
+        - {x: 6, y: 0}
+        - {x: 256, y: 125}
+        - {x: 256, y: 128}
+    - name: Dirt_Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 256}
+        - {x: 0, y: 0}
+        - {x: 256, y: 0}
+        - {x: 256, y: 256}
+    - name: Dirt_Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 256}
+        - {x: 0, y: 0}
+        - {x: 6, y: 0}
+        - {x: 256, y: 125}
+        - {x: 256, y: 256}
+    - name: Dirt_Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 256}
+        - {x: 0, y: 125}
+        - {x: 250, y: 0}
+        - {x: 256, y: 0}
+        - {x: 256, y: 256}
+    - name: TopRight
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 128
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -256, y: 0}
+        - {x: -256, y: -128}
+        - {x: 0, y: -128}
+        - {x: 0, y: -125}
+        - {x: -250, y: 0}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
